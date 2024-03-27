@@ -1,0 +1,34 @@
+.container{
+    width: 900px;
+    height: 300px;
+    margin: auto;
+    margin-top: 100px;
+}
+table,tr,th,td{
+    border: 1px black solid;
+}
+table{
+    border-collapse: collapse;
+}
+th{
+    background: aquamarine  ;
+}
+td{
+    text-align: center;
+}
+.tieude1{
+    font-size: 25px;
+    color: red;
+}
+.tieude2{
+    font-size: 18px;
+    color: red  ;
+}
+.tieude3{
+    font-family: 'Times New Roman', Times, serif;
+    color: blue;
+}
+.tong{
+    background: rgb(231, 231, 5);
+    color: red;
+}

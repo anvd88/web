@@ -1,0 +1,30 @@
+#tong{
+    width: 325px;
+    height: 500px;
+}
+#tong .khoi{
+    width: 100%;
+    height: 25%;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    
+}
+#tong .khoi a{
+    float: left;
+    width: 60%;
+    text-decoration: none;
+
+}
+#tong .khoi a h1{
+color: #18181a;
+font-size: 18px;
+font-family: 'Times New Roman', Times, serif;
+
+}
+#tong .khoi a h1:hover{
+    color: #068;
+}
+#tong .khoi img{
+    width: 40%;
+
+}
